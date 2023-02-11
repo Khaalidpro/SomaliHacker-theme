@@ -1,6 +1,6 @@
 <p align="center"><a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-for-android.svg"> </a>
 
-# <p align="center">T-Remix
+# <p align="center">SomaliHacker-theme
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035221/89707674-0fb00a00-d98e-11ea-95c7-43000838eb1d.jpg">
 </p>
